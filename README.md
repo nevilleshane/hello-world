@@ -1,4 +1,4 @@
 hello-world
 ===========
 
-test repository
+This is the readme file edited during my github tutorial.
